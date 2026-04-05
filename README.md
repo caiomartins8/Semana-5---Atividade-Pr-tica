@@ -17,16 +17,16 @@ O projeto foi desenvolvido seguindo a estratégia de adaptação de layout:
 - **Mobile:** Menu vertical e cards em coluna única (100% de largura).
 
 ### Demonstração Desktop
-![Versão Desktop](desk01.png)
-![Versão Desktop](desk02.png)
+![alt text](image.png)
+![alt text](image-1.png)
 
 
 ### Demonstração Mobile
-![Versão Mobile](mob01.png)
-![Versão Mobile](mob02.png)
-![Versão Mobile](mob03.png)
-![Versão Mobile](mob04.png)
 
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 ---
 *Projeto acadêmico - 2026*
